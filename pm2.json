@@ -1,0 +1,7 @@
+{
+    "apps": [{
+        "name": "rhyno",
+        "script": "src/load.js",
+        "exec_mode": "cluster",
+        "instances": "2"
+}]
